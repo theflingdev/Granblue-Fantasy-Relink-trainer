@@ -6,6 +6,7 @@
 
 A Trainer for **Granblue Fantasy: Relink**. This trainer advanced control over combat parameters, character progression, and character equipment management, allowing you to tailor your gameplay experience in real-time.
 
+![Preview](assets/preview.png)
 ---
 
 ## 🚀 Key Features
